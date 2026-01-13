@@ -1,0 +1,14 @@
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/bin/Debug/net10.0/DiceRolling
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/bin/Debug/net10.0/DiceRolling.deps.json
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/bin/Debug/net10.0/DiceRolling.runtimeconfig.json
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/bin/Debug/net10.0/DiceRolling.dll
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/bin/Debug/net10.0/DiceRolling.pdb
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/DiceRolling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/DiceRolling.AssemblyInfoInputs.cache
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/DiceRolling.AssemblyInfo.cs
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/DiceRolling.csproj.CoreCompileInputs.cache
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/DiceRolling.dll
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/refint/DiceRolling.dll
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/DiceRolling.pdb
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/DiceRolling.genruntimeconfig.cache
+/Users/mckayyorgason/Desktop/BYU Classes Winter 2026/Enterprise Application Development/Mission2Assignment/obj/Debug/net10.0/ref/DiceRolling.dll
